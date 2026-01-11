@@ -1,0 +1,26 @@
+[
+    {
+        "id": "MS001",
+        "title": "Nh\u00e0 gi\u1ea3 kim",
+        "author": "Paulo Coelho",
+        "year": 2026,
+        "cat": "V\u0103n h\u1ecdc",
+        "qty": 4
+    },
+    {
+        "id": "MS002",
+        "title": "H\u1ea1t gi\u1ed1ng t\u00e2m h\u1ed3n",
+        "author": "Nhi\u1ec1u t\u00e1c gi\u1ea3",
+        "year": 2023,
+        "cat": "Khoa h\u1ecdc",
+        "qty": 30
+    },
+    {
+        "id": "MS003",
+        "title": "Cho t\u00f4i xin m\u1ed9t v\u00e9 \u0111i tu\u1ed5i th\u01a1",
+        "author": "Nguy\u1ec5n Nh\u1eadt \u00c1nh",
+        "year": 2022,
+        "cat": "V\u0103n h\u1ecdc",
+        "qty": 30
+    }
+]

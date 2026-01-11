@@ -1,0 +1,13 @@
+{
+    "items": [
+        {
+            "name": "Phan \u0110\u00ecnh Thi",
+            "qty": 2,
+            "price": 2000
+        }
+    ],
+    "subtotal": 4000,
+    "discount": 1,
+    "vat": 1,
+    "total": 3999.6
+}
