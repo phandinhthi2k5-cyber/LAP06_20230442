@@ -2,8 +2,11 @@ Họ và tên: PHAN ĐÌNH THI
 Lớp: DCCNTT 14.1
 Mã SV: 20230442
 
-===================Bài làm============================
+======================Bài làm============================
+Tất cả các file đầy đủ:
+lấy ảnh Cấu trúc file lab lab06 làm mẫu:
 
+=================URL chạy từng bài======================
 Bài 1:
 http://localhost/lab06_20230442/bai1/register_member.php
 
